@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![weejinyoung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NYeonK&show_icons=true&theme=onedark)  
+![weejinyoung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=weejinyoung&show_icons=true&theme=onedark)  
 
 </div>
   
