@@ -1,4 +1,4 @@
-<h2 align="center">공감형개발자</h2><br/>
+<h2 align="center"></h2><br/>
 
 <div align="center">
   
